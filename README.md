@@ -17,6 +17,7 @@
     <img alt="Discord" src="https://lanyard.cnrad.dev/api/754244927030034432?animated=true" />
   </a>
 </p>
+
 <!--
 **typeable-nickname/typeable-nickname** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
