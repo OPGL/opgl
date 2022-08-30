@@ -1,4 +1,5 @@
-<h1 align="center">
+<div align="center">
+  
 # 📱 Social Media:
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/754244927030034432?&borderRadius=40px)](https://discord.com/users/754244927030034432)
 
@@ -17,4 +18,5 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=OPGL&icon=0&color=0)](https://visitcount.itsvg.in)
-</h1>
+  
+</div>
