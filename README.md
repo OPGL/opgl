@@ -7,7 +7,11 @@
 ![CSS](https://img.shields.io/badge/-CSS-red?style=for-the-badge&logo=css)
 ![HTML](https://img.shields.io/badge/-HTML-blue?style=for-the-badge&logo=html)
 ![JS](https://img.shields.io/badge/-JavaScript-orange?style=for-the-badge&logo=javascript)
-  
+
+# 💻 Tech Stack:
+![LINUX](https://img.shields.io/badge/-Linux-black?style=for-the-badge&logo=linux)
+![GIT](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git)
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=OPGL&theme=dracula&hide_border=true&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=OPGL&theme=dracula&hide_border=true)<br/>
