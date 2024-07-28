@@ -1,7 +1,7 @@
 <div align="center">
   
 # 📱 Social Media:
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/754244927030034432?&borderRadius=40px)](https://discord.com/users/754244927030034432)
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/834071838740709447?&borderRadius=40px)](https://discord.com/users/834071838740709447)
 
 # 💻 Tech Stack (Beginner/Learning):
 ![CSS](https://img.shields.io/badge/-CSS-red?style=for-the-badge&logo=css)
